@@ -1,13 +1,18 @@
-<h3>Hello!</h3>
+<h1>Hello!</h1>
 
-I'm coding in:
-<ol>
+<h2>My name is Adrian and I'm coding in</h2>
+<ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
-  
-<a href="https://www.instagram.com/spoiledwlr/>Instagram</a>
+  <h2>Contact</h2>
+  <a href="https://www.instagram.com/spoiledwlr/">instagram</a>
+    <br>
+  <a href="mailto:adrian-gurski@wp.pl">e-mail</a>
+
+  <h2>My website</h2>
+  Soon...
 
 
 <!---
